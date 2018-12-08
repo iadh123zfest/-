@@ -1,6 +1,6 @@
-﻿token= 
-owner= 
-prefix= 
-game= help
+token= NTIwOTU0OTM4NDQ5MzMwMTg3.Du1aCQ.Dcu7ohjPZkk31lBYuC6SnMcLSqg
+owner= 411887639847763978
+prefix= K
+game= Khelp
 stayinchannel=true 
 songinstatus=true 
